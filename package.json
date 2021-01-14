@@ -1,0 +1,26 @@
+{
+  "name": "sharex-api",
+  "version": "1.0.0",
+  "description": "A shareX image API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImNotAuzero/ShareX-API.git"
+  },
+  "author": "ImNotAuzero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImNotAuzero/ShareX-API/issues"
+  },
+  "homepage": "https://github.com/ImNotAuzero/ShareX-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-useragent": "^1.0.15",
+    "helmet": "^4.3.1"
+  }
+}

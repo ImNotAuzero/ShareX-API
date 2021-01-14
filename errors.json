@@ -1,0 +1,7 @@
+{
+  "unauthorised": "Error: Invalid params",
+  "internal": "Error: Internal server error occurred.",
+  "noattachment": "Error: No image was provided in the request.",
+  "exists": "Error: The file provided already exists.",
+  "unsupported": "Error: Unsupported file type was attempted to be saved"
+}
